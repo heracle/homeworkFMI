@@ -1,0 +1,3 @@
+#!/bin/bash
+javac RMI_Sockets_Server.java gps.java -d .
+java rmi_sockets_server.RMI_Sockets_Server 
